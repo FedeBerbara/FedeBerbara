@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico Berbara</h1>
 <h3 align="center">A passionate JavaScript full stack developer in progress || Interested in DevOps </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedeberbara" alt="fedeberbara" /></a> </p>
-
 - 🔭 I’m currently working on [Metrotel Argentina](https://www.metrotel.com.ar/)
 
 - 🌱 I’m currently learning **ReactJS and C#**
@@ -23,6 +21,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedeberbara&show_icons=true&locale=en&layout=compact" alt="fedeberbara" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedeberbara&show_icons=true&locale=en" alt="fedeberbara" /></p>
-
