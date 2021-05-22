@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, It's Fede</h1>
 
-<img align="right" alt="GIF" src="IMG_1807.jpg" width="210px" />
+<img align="right" alt="GIF" src="avataaars.png" width="180px" />
 
 <h3 align="left"> I'm a student Infrastructure It and a self taught developer focused on the MERN stack based on Buenos Aires, Argentina. I’m currently working as ABM Operator at 
   <a href="https://www.metrotel.com.ar/" target="_blank">Metrotel</a> and all my projects are available on my <a href="https://fedeberbara.github.io/Portafolio-Fede/" target="_blank">Briefcase</a>💻</h3>
