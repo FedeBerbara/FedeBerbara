@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" src="avataaars.png" width="180px" />
 
-<h3 align="left"> I'm a student Infrastructure It and a self taught developer focused on the MERN stack based on Buenos Aires, Argentina. I’m currently working as ABM Operator at 
-  <a href="https://www.metrotel.com.ar/" target="_blank">Metrotel</a> and all my projects are available on my <a href="https://fedeberbara.github.io/Portafolio-Fede/" target="_blank">Briefcase</a>💻</h3>
+<h3 align="left"> I'm a student Infrastructure It and a self taught developer focused on the MERN stack based on Buenos Aires, Argentina. I’m currently working as Sysadmin at 
+  <a href="https://www.santander.com.ar/banco/online/select" target="_blank">Santander Tecnologia</a> and all my projects are available on my <a href="https://fedeberbara.github.io/Portafolio-Fede/" target="_blank">Briefcase</a>💻</h3>
 
 <h3 aling="left">I would like to internalize and learn much more about the DevOps culture</h3>
 
@@ -29,6 +29,7 @@
   <img alt="Windows Server" src="https://img.shields.io/badge/-Windows%20Server-0D1117?logo=Windows&logoColor=blue&style=plastic"/>
   <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-0D1117?logo=Cisco&logoColor=1ba0d7&style=plastic"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-0D1117?logo=Ansible&logoColor=1ba0d7&style=plastic"/>
 </p>
 
 ----
