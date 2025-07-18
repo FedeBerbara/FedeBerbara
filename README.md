@@ -2,10 +2,7 @@
 
 <img align="right" alt="GIF" src="avataaars.png" width="180px" />
 
-<h3 align="left"> I'm a student Infrastructure It and a self taught developer focused on the MERN stack based on Buenos Aires, Argentina. I’m currently working as Sysadmin at 
-  <a href="https://www.santander.com.ar/banco/online/select" target="_blank">Santander Tecnologia</a> and all my projects are available on my <a href="https://fedeberbara.github.io/Portafolio-Fede/" target="_blank">Briefcase</a>💻</h3>
-
-<h3 aling="left">I would like to internalize and learn much more about the DevOps culture</h3>
+<h3 align="left"> I'm a Software Engineer based on Buenos Aires, Argentina. I’m currently working as SSR DevOps at <a href="https://www.santander.com.ar/banco/online/select" target="_blank">Santander Tecnologia</a>.
 
 ----
 - Some of the technologies that I know and use
@@ -30,6 +27,9 @@
   <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-0D1117?logo=Cisco&logoColor=1ba0d7&style=plastic"/>
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-0D1117?logo=Ansible&logoColor=1ba0d7&style=plastic"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0D1117?logo=Python&logoColor=1ba0d7&style=plastic"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-0D1117?logo=Terraform&logoColor=1ba0d7&style=plastic"/>
+  <img alt="Pulumi" src="https://img.shields.io/badge/-Pulumi-0D1117?logo=Pulumi&logoColor=1ba0d7&style=plastic"/>
 </p>
 
 ----
@@ -38,9 +38,6 @@
 <p>
   <a href="https://www.linkedin.com/in/federicoberbara/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" />
-  </a>
-  <a href="https://drive.google.com/file/d/1fnpo48q6Ig0MkAjQT4_qDCG29N1_C8yz/view?usp=sharing" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Download%20my%20CV-0F9D58?style=for-the-badge&logo=Google-Drive&logoColor=white&style=plastic" />
   </a>
   <a href="mailto:federicomberbara@gmail.com" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" />
